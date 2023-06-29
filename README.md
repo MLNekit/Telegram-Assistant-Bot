@@ -15,7 +15,7 @@ This is an Assistant Bot designed for group chats, offering useful features to e
 
 ## Installation
 
-To set up the Assistant Bot for Group Chats, follow these steps:
+To set up the Assistant Bot, follow these steps:
 
 1. Rename the `example.env` file to `.env`.
 2. Open the `.env` file and set the API token for the bot.
