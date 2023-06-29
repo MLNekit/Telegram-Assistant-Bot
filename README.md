@@ -7,7 +7,7 @@ This is an Assistant Bot designed for group chats, offering useful features to e
 - Transcription: The bot can transcribe voice messages into text, allowing users to read and understand voice-based communication more easily.
 - Notification: By using the "/all" command, the bot can send important updates and notifications to all users in the group chat.
 
-![gif](https://imgur.com/a/lYMzfcs)
+![gif](<blockquote class="imgur-embed-pub" lang="en" data-id="a/lYMzfcs"><a href="//imgur.com/lYMzfcs"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 `Note:` Make sure the bot has administrative privileges in the group chat for all functions to work correctly.
 
