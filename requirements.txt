@@ -1,0 +1,9 @@
+requests
+aiogram
+pyaudio
+pydub
+numpy
+setuptools
+scipy
+python-dotenv
+speechrecognition

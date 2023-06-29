@@ -1,0 +1,5 @@
+.env
+botdb.sqlite
+voice_files/
+__pycache__/
+
